@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../dohiammk_parent/dohiammk_cart_service" />
+    <file type="web" url="file://$PROJECT_DIR$/../dohiammk_parent/dohiammk_cart_web" />
+    <file type="web" url="file://$PROJECT_DIR$/../dohiammk_parent/dohiammk_content_service" />
+    <file type="web" url="file://$PROJECT_DIR$/../dohiammk_parent/dohiammk_manager_web" />
+    <file type="web" url="file://$PROJECT_DIR$/../dohiammk_parent/dohiammk_page_service" />
+    <file type="web" url="file://$PROJECT_DIR$/../dohiammk_parent/dohiammk_page_web" />
+    <file type="web" url="file://$PROJECT_DIR$/../dohiammk_parent/dohiammk_portal_web" />
+    <file type="web" url="file://$PROJECT_DIR$/../dohiammk_parent/dohiammk_search_service" />
+    <file type="web" url="file://$PROJECT_DIR$/../dohiammk_parent/dohiammk_search_web" />
+    <file type="web" url="file://$PROJECT_DIR$/../dohiammk_parent/dohiammk_sellgoods_service" />
+    <file type="web" url="file://$PROJECT_DIR$/../dohiammk_parent/dohiammk_shop_web" />
+    <file type="web" url="file://$PROJECT_DIR$/../dohiammk_parent/dohiammk_user_service" />
+    <file type="web" url="file://$PROJECT_DIR$/../dohiammk_parent/dohiammk_user_web" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/dohiammk_sms_service/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/dohiammk_page_web/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectResources">
+    <resource url="http://activemq.apache.org/schema/core" location="$MAVEN_REPOSITORY$/org/apache/activemq/activemq-core/5.2.0/activemq-core-5.2.0.jar!/activemq.xsd" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/../dohiammk_parent/out" />
+  </component>
+</project>

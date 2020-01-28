@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="dohiammk_sellgoods_service:war">
+    <output-path>$PROJECT_DIR$/../dohiammk_parent/dohiammk_sellgoods_service/target</output-path>
+    <root id="archive" name="dohiammk_sellgoods_service-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="dohiammk_sellgoods_service:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dohiammkJMS_consumer/dohiammkJMS_consumer.iml" filepath="$PROJECT_DIR$/dohiammkJMS_consumer/dohiammkJMS_consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dohiammkJMS_producer/dohiammkJMS_producer.iml" filepath="$PROJECT_DIR$/dohiammkJMS_producer/dohiammkJMS_producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dohiammk_cart_interface/dohiammk_cart_interface.iml" filepath="$PROJECT_DIR$/dohiammk_cart_interface/dohiammk_cart_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dohiammk_cart_service/dohiammk_cart_service.iml" filepath="$PROJECT_DIR$/dohiammk_cart_service/dohiammk_cart_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dohiammk_cart_web/dohiammk_cart_web.iml" filepath="$PROJECT_DIR$/dohiammk_cart_web/dohiammk_cart_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dohiammk_common/dohiammk_common.iml" filepath="$PROJECT_DIR$/dohiammk_common/dohiammk_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dohiammk_content_interface/dohiammk_content_interface.iml" filepath="$PROJECT_DIR$/dohiammk_content_interface/dohiammk_content_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dohiammk_content_service/dohiammk_content_service.iml" filepath="$PROJECT_DIR$/dohiammk_content_service/dohiammk_content_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dohiammk_dao/dohiammk_dao.iml" filepath="$PROJECT_DIR$/dohiammk_dao/dohiammk_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dohiammk_manager_web/dohiammk_manager_web.iml" filepath="$PROJECT_DIR$/dohiammk_manager_web/dohiammk_manager_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dohiammk_page_interface/dohiammk_page_interface.iml" filepath="$PROJECT_DIR$/dohiammk_page_interface/dohiammk_page_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dohiammk_page_service/dohiammk_page_service.iml" filepath="$PROJECT_DIR$/dohiammk_page_service/dohiammk_page_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dohiammk_parent/dohiammk_page_web/dohiammk_page_web.iml" filepath="$PROJECT_DIR$/../dohiammk_parent/dohiammk_page_web/dohiammk_page_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dohiammk_parent.iml" filepath="$PROJECT_DIR$/dohiammk_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dohiammk_pojo/dohiammk_pojo.iml" filepath="$PROJECT_DIR$/dohiammk_pojo/dohiammk_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dohiammk_portal_web/dohiammk_portal_web.iml" filepath="$PROJECT_DIR$/dohiammk_portal_web/dohiammk_portal_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dohiammk_search_interface/dohiammk_search_interface.iml" filepath="$PROJECT_DIR$/dohiammk_search_interface/dohiammk_search_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dohiammk_search_service/dohiammk_search_service.iml" filepath="$PROJECT_DIR$/dohiammk_search_service/dohiammk_search_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dohiammk_search_web/dohiammk_search_web.iml" filepath="$PROJECT_DIR$/dohiammk_search_web/dohiammk_search_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dohiammk_sellgoods_interface/dohiammk_sellgoods_interface.iml" filepath="$PROJECT_DIR$/dohiammk_sellgoods_interface/dohiammk_sellgoods_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dohiammk_sellgoods_service/dohiammk_sellgoods_service.iml" filepath="$PROJECT_DIR$/dohiammk_sellgoods_service/dohiammk_sellgoods_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dohiammk_shop_web/dohiammk_shop_web.iml" filepath="$PROJECT_DIR$/dohiammk_shop_web/dohiammk_shop_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dohiammk_sms_service/dohiammk_sms_service.iml" filepath="$PROJECT_DIR$/dohiammk_sms_service/dohiammk_sms_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dohiammk_solr_util/dohiammk_solr_util.iml" filepath="$PROJECT_DIR$/dohiammk_solr_util/dohiammk_solr_util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dohiammk_user_interface/dohiammk_user_interface.iml" filepath="$PROJECT_DIR$/dohiammk_user_interface/dohiammk_user_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dohiammk_user_service/dohiammk_user_service.iml" filepath="$PROJECT_DIR$/dohiammk_user_service/dohiammk_user_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dohiammk_user_web/dohiammk_user_web.iml" filepath="$PROJECT_DIR$/dohiammk_user_web/dohiammk_user_web.iml" />
+    </modules>
+  </component>
+</project>

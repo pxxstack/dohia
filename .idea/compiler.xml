@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dohiammk_cart_interface" />
+        <module name="dohiammk_cart_service" />
+        <module name="dohiammk_cart_web" />
+        <module name="dohiammk_common" />
+        <module name="dohiammk_content_interface" />
+        <module name="dohiammk_content_service" />
+        <module name="dohiammk_dao" />
+        <module name="dohiammk_manager_web" />
+        <module name="dohiammk_page_interface" />
+        <module name="dohiammk_page_service" />
+        <module name="dohiammk_page_web" />
+        <module name="dohiammk_pojo" />
+        <module name="dohiammk_portal_web" />
+        <module name="dohiammk_search_interface" />
+        <module name="dohiammk_search_service" />
+        <module name="dohiammk_search_web" />
+        <module name="dohiammk_sellgoods_interface" />
+        <module name="dohiammk_sellgoods_service" />
+        <module name="dohiammk_shop_web" />
+        <module name="dohiammk_sms_service" />
+        <module name="dohiammk_solr_util" />
+        <module name="dohiammk_user_interface" />
+        <module name="dohiammk_user_service" />
+        <module name="dohiammk_user_web" />
+        <module name="dohiammkJMS_consumer" />
+        <module name="dohiammkJMS_producer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dohiammk_cart_interface" target="1.7" />
+      <module name="dohiammk_cart_service" target="1.7" />
+      <module name="dohiammk_cart_web" target="1.7" />
+      <module name="dohiammk_common" target="1.7" />
+      <module name="dohiammk_content_interface" target="1.7" />
+      <module name="dohiammk_content_service" target="1.7" />
+      <module name="dohiammk_dao" target="1.7" />
+      <module name="dohiammk_manager_web" target="1.7" />
+      <module name="dohiammk_page_interface" target="1.7" />
+      <module name="dohiammk_page_service" target="1.7" />
+      <module name="dohiammk_page_web" target="1.7" />
+      <module name="dohiammk_parent" target="1.7" />
+      <module name="dohiammk_pojo" target="1.7" />
+      <module name="dohiammk_portal_web" target="1.7" />
+      <module name="dohiammk_search_interface" target="1.7" />
+      <module name="dohiammk_search_service" target="1.7" />
+      <module name="dohiammk_search_web" target="1.7" />
+      <module name="dohiammk_sellgoods_interface" target="1.7" />
+      <module name="dohiammk_sellgoods_service" target="1.7" />
+      <module name="dohiammk_shop_web" target="1.7" />
+      <module name="dohiammk_sms_service" target="1.8" />
+      <module name="dohiammk_solr_util" target="1.7" />
+      <module name="dohiammk_user_interface" target="1.7" />
+      <module name="dohiammk_user_service" target="1.7" />
+      <module name="dohiammk_user_web" target="1.7" />
+      <module name="dohiammkJMS_consumer" target="1.7" />
+      <module name="dohiammkJMS_producer" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
